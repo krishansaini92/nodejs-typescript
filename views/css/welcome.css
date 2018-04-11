@@ -1,0 +1,13 @@
+h3{
+    width:50%;
+    margin-left:20%;
+    padding:30px 5%;
+    background: #999999;
+    color: #ffffff;
+    text-align: center;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    font-family: Helvetica;
+    letter-spacing: 2px;
+}
